@@ -1774,7 +1774,7 @@ Okay, I will continue the table of contents from where I left off, focusing on c
 
 Okay, I will continue the table of contents from that point, expanding the Svelte section and then moving to SvelteKit.
 
-```
+
 # Table of Contents
 
 1.  **$derived**
